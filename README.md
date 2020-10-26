@@ -14,6 +14,7 @@
 * [Sobre](#recycle-sobre)
 * [Tecnologias Utilizadas](#clipboard-tecnologias-utilizadas)
 * [Instalação e Execução](#desktop_computer-instalação-e-execução)
+* [Licença](#scroll-licença)
 
 
 # :recycle: Sobre
@@ -57,4 +58,9 @@ Sistema criado para um Crud em React. Consiste em tela principal e de cadastro d
 ```
 Vá para http://localhost:3001 para ver o website.
 
-<p align="center"><b>Feito com 	:coffee: por Larissee Lima</b></p>
+
+# :scroll: Licença
+Este projeto está sob a [LICENÇA](https://opensource.org/licenses/MIT) do MIT
+
+
+<p align="center"><b>Feito com 	:coffee: por Larisse Lima</b></p>
