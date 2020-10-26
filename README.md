@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/.github\logo.png>
+  <img src="/.github/logo.png>
 </div>
 
 <h3 align="center"> CRUD EM REACT   
@@ -40,8 +40,8 @@ Onde após o cadastro feito,é possível visualizar uma lista de contatos cadast
 <a id="technologies"></a>
 ## :computer: Tecnologias
 
-* Back-end:  Node.js
-* Front-end: React , JavaScript, JSX, CSS, Bootstrap
+ Back-end:  Node.js
+Front-end: React , JavaScript, JSX, CSS, Bootstrap
 
 ---
 
