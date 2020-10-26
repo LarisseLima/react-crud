@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="frontend\src\assets\imgs\logo.png>
+  <img src="/.github\logo.png>
 </div>
 
 <h3 align="center"> CRUD EM REACT   
@@ -30,7 +30,7 @@ Onde após o cadastro feito,é possível visualizar uma lista de contatos cadast
 
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  	<img alt="Tela da Home" src="/.github/screenshots/home.png" width="100%">
+  	<img alt="Tela da Home" src="/.github/crud-react.png" width="100%">
 </p>
 
 
