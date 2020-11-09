@@ -60,7 +60,7 @@ Vá para http://localhost:3001 para ver o website.
 
 
 # :scroll: Licença
-Este projeto está sob a [LICENÇA](https://opensource.org/licenses/MIT) do MIT
+Este projeto está sob licença [MIT](https://github.com/LarisseLima/react-crud/blob/master/LICENSE)
 
 
 <p align="center"><b>Feito com 	:coffee: por Larisse Lima</b></p>
