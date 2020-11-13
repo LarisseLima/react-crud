@@ -41,20 +41,20 @@ Sistema criado para um Crud em React. Consiste em tela principal e de cadastro d
 ```bash
   #Navegar e baixar as depêndencias
   cd backend
-  yarn install
+ npm install ou yarn install
 
   #Iniciar o servidor com yarn
-  yarn start
+  npm start ou yarn start
 ```
 
 ## Para rodar a aplicação na parte do cliente web:
 ```bash
   #Navegar e baixar as depêndencias web
   cd frontend
-  yarn install
+ npm install ou yarn install
   
   #Iniciar a aplicação
-  yarn start
+  npm start ou yarn start
 ```
 Vá para http://localhost:3001 para ver o website.
 
