@@ -30,7 +30,7 @@ Sistema criado para um Crud em React. Consiste em tela principal e de cadastro d
 
 
 # :desktop_computer: Instalação e Execução
-**Antes de iniciar, é necessário ter o [NodeJs](https://nodejs.org/en/) e o [Yarn](https://yarnpkg.com/) baixado na máquina.
+**Antes de iniciar, é necessário ter o [NodeJs](https://nodejs.org/en/) e ou [Yarn](https://yarnpkg.com/) baixado na máquina.
 
 ## Comando para clonar o repositório: 
 ```bash
